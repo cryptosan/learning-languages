@@ -6,5 +6,4 @@ Everyone can join this project.
 ## **INDEX**
 ### [*Go to Books page*](./books.md)
 ### [*Go to Links page*](./links.md)
-### *Guide*
-[A Simple Guide to Learn Korean Quickly](./a-simple-guide-to-learn-korean-quickly.md)
+### [*Go to Guides/Tips page*](./guides.md)
