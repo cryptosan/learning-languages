@@ -95,11 +95,11 @@ If you give something back, you return it to whoever you got it from.
   * Most people in this country come across as being shy and reserved, but it's just the way people behave here.
 
 ## Cut out
-1. to remove an area of paper or cloth from a larger sheet by cutting.
+1. **to remove an area of paper or cloth from a larger sheet by cutting.**
   * My little girl likes cutting out the shapes of animals or fruits and colouring them in.
   * She cut the recipe out and stuck it on the fridge.
   * Whenever our daughter's picture is in the newspaper, my wife cuts it out and puts it in a scrapbook.
-2. to stop doing something, such as eating fatty foods or gambling or taking drugs, usually in order to improve one's health or one's life.
+2. **to stop doing something, such as eating fatty foods or gambling or taking drugs, usually in order to improve one's health or one's life.**
   * I still eat fish, but I've cut out all other types of meat, including chicken and pork.
   * I told my husband to cut the gambling out altogether or I'd leave him.
 
