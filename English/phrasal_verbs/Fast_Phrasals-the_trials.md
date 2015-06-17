@@ -70,7 +70,7 @@ If you keep on doing something, you continue doing it.
 ## Keep on (2)
 If you keep somebody on, you continue to employ them.
 * If i could, i'd keep everybody on, but unfortunately we can't afford to pay all our staff at the moment.
-* We'll do our best to keep on keep on everyone who's been here for over five years.
+* We'll do our best to keep on everyone who's been here for over five years.
 * Only the most important people were kept on while the company was being restructured.
 
 ## Slow down
